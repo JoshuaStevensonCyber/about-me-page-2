@@ -1,0 +1,19 @@
+body {
+    background-color: aliceblue;
+}
+h1 {
+    color: darkblue;
+    font-size: 32px;
+}
+p {
+    color: blue;
+    margin: 24px;
+}
+h {
+    color: darkblue;
+    font-size: 24px;
+}
+p1 {
+    color: blue;
+    margin: 12px;
+}
